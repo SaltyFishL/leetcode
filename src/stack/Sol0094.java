@@ -7,7 +7,7 @@ import java.util.Stack;
 public class Sol0094 {
 
 
-   class TreeNode {
+   private class TreeNode {
        int val;
        TreeNode left;
        TreeNode right;
@@ -44,8 +44,6 @@ public class Sol0094 {
         }
 
         return valList;
-    }
-    public static void main(String[] args) {
     }
 
 }
