@@ -17,3 +17,4 @@
 * [\#225 用队列实现栈](src/stack/Sol0225.java)
 * [\#232 用栈实现队列](src/stack/Sol0232.java)
 * [\#316 去除重复字母](src/stack/Sol0316.java)
+* [\#331 验证二叉树的前序序列化](src/stack/Sol0331.java)
