@@ -22,3 +22,4 @@
 * [\#402 移除k位数字](src/stack/Sol0402.java)
 * [\#456 132模式](src/stack/Sol0456.java)
 * [\#496 下一个更大元素Ⅰ](src/stack/Sol0496.java)
+* [\#503 下一个更大元素Ⅱ](src/stack/Sol0503.java)
