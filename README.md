@@ -18,3 +18,7 @@
 * [\#232 用栈实现队列](src/stack/Sol0232.java)
 * [\#316 去除重复字母](src/stack/Sol0316.java)
 * [\#331 验证二叉树的前序序列化](src/stack/Sol0331.java)
+* [\#394 字符串解码](src/stack/Sol0394.java)
+* [\#402 移除k位数字](src/stack/Sol0402.java)
+* [\#456 132模式](src/stack/Sol0456.java)
+* [\#496 下一个更大元素Ⅰ](src/stack/Sol0496.java)
